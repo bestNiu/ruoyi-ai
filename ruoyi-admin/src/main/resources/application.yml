@@ -320,7 +320,7 @@ websocket:
   allowedOrigins: '*'
 # chatgpt配置信息
 chat:
-  apiKey: 'sk-uMCP3lTg1dQ9L7Xs2bF352Fa216a4c9280577b205dE67e12'
+  apiKey: 'sk-ZmJZSsGx1aTH1JoH7e21D51026Ba4123Bf3f35B99060A96a'
   apiHost: 'https://api.pandarobot.chat/'
 # 微信小程序配置信息
 wx:
