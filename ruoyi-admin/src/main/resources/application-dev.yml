@@ -16,6 +16,7 @@ xxl.job:
   admin-addresses: http://localhost:9100/xxl-job-admin
   # 执行器通讯TOKEN：非空时启用
   access-token: xxl-job
+
   executor:
     # 执行器AppName：执行器心跳注册分组依据；为空则关闭自动注册
     appname: xxl-job-executor
